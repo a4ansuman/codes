@@ -53,4 +53,3 @@ module test;
       $display("******************************");
     end
 endmodule
-© 2021 GitHub, Inc.
